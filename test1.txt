@@ -1,0 +1,2 @@
+## To show case Git commands and working for a Git blog
+
